@@ -1,12 +1,13 @@
-**NAME**: Kunaal Gupta
-**COURSE & TERM NAME: CMPUT 296** - Gaming AI, Fall 2021 | Assignment 
-**PROGRAMMING LANGUAGE**: C#
+**Author**: Kunaal Gupta
+
+**Course & Term Name**: CMPUT 296 - Gaming AI, Fall 2021 | Assignment 
+
+**Programming Language**: C#
 
 **Description**: Each folder in this directory holds C# assignment solutions/codes to their respective problem stated in the .pdf files, assigned in CMPUT 296 class. 
 
 
-
-**INCLUDED FILESs**: 
+**INCLUDED FILESs ** : 
  * README
  * Astar/
  * Finite State Machiney/
