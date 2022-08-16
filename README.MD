@@ -7,7 +7,7 @@
 **Description**: Each folder in this directory holds C# assignment solutions/codes to their respective problem stated in the .pdf files, assigned in CMPUT 296 class. 
 
 
-**INCLUDED FILESs ** : 
+**INCLUDED FILES** : 
  * README
  * Astar/
  * Finite State Machiney/
