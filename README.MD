@@ -1,17 +1,19 @@
-Name: Kunaal Gupta
-Course & Term Name: CMPUT 296 - Gaming AI, Fall 2022
+**NAME**: Kunaal Gupta
+**COURSE & TERM NAME: CMPUT 296** - Gaming AI, Fall 2021 | Assignment 
+**PROGRAMMING LANGUAGE**: C#
 
-Exercise: Assignment 
-Programming Lanaguage: C#
+**Description**: Each folder in this directory holds C# assignment solutions/codes to their respective problem stated in the .pdf files, assigned in CMPUT 296 class. 
 
-Included Files: 
+
+
+**INCLUDED FILESs**: 
  * README
  * Astar/
  * Finite State Machiney/
  * Genetic Algorithm/
  * Grid Navigation/
 
-Concepts learnt & used: 
+**Concepts learnt & used**: 
  * Unity Intro
  * Grids
  * Path Network
@@ -33,28 +35,22 @@ Concepts learnt & used:
  * Dialogue Narrative
  * Churn Prediction
 
-
-Software used: 
+**Software used**: 
  * Unity Game Engine  
  * VS Code         
  * Terminal                           
 
-Description:
- - Each folder in this directory holds C# assignment solutions/codes to their respective problem stated in the .pdf files, assigned in CMPUT 296 class. 
-
-Running Instructions:
+**Running Instructions**:
  * Within the same directory, open each folder in Unity Game engine.
 
-Acknowledgments: 
+**Acknowledgments**: 
  * Unity Documentation
  * C# CheatSheet
  * Code Submission & style guidlines
 
-Github Profile: 
-https://github.com/kunaal-gupta
+**Github Profile**: https://github.com/kunaal-gupta
 
-Feedback:
-If you have any feedback or issue(s), please reach out to me at kunaalgupta@hotmail.com
+**Feedback**: If you have any feedback or issue(s), please reach out to me at kunaalgupta@hotmail.com
 
 
 
